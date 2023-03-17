@@ -1,0 +1,96 @@
+body {
+    width: 70%;
+    margin: auto;
+    background: url(https://www.usnews.com/cmsmedia/df/46/9f7900bd4b4aa85c9d7842b88091/gettyimages-1340894211.jpg) no-repeat top center;
+    background-size: cover;
+    font-family: Verdana, sans-serif;
+  }
+  
+  form {
+    background-color: rgba(81, 113, 165, 0.92);
+    border-radius: 3px;
+    padding: 20px 5px ;
+  }
+  
+  label{
+    display: block;
+    font-size: 20px;
+    
+  }
+  
+  .container {
+    width: 90%;
+    margin: auto
+  }
+  
+  .input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 5px;
+  }
+  
+  #title2 {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px; 
+    margin-bottom: 15px;
+    
+  }
+  
+  
+  h1 {
+    margin-top: 40px;
+    margin-bottom: -10px;
+    color: #2D3142; 
+    padding: 10px 10px 0px 10px;
+  }
+  
+  p {
+    font-size: 20px;
+    padding-bottom: 10px;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+  }
+  
+  select {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px
+  }
+  
+  #radio-opt {
+    margin-bottom: 10px;
+  }
+  
+  #radio {
+    margin-bottom: 5px;
+    font-size: 17px;
+  }
+  
+  #check-opt {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  #area-opt {
+    margin-bottom: 10px;
+  }
+  
+  .checkbox {
+    margin: 10px 0px;
+  }
+  
+  .textarea {
+    width: 100%
+  }
+  
+  #submit {
+    display: block;
+    width: 150px;
+    height: 40px;
+    margin: auto;
+    margin-top: 20px;
+    background: #404E7C;
+    color: FFFAFF; 
+  }
